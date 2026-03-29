@@ -1,0 +1,2 @@
+crewai[tools]==1.10.1
+lancedb==0.30.0
